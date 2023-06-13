@@ -1,0 +1,10 @@
+* ulubis-sdl
+
+SDL2 backend for ulubis
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/malcolmstill/ulubis-sdl.git   |
+| commit  | 853fcd3  |
+| systems | ulubis-sdl |
+|---------+-------------------------------------------|
+
